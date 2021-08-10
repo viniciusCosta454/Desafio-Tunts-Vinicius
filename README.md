@@ -51,7 +51,7 @@ First of all, you will need to install [NodeJS](https://nodejs.org/en/download/)
 Afterwards, clone this repository on your machine:
 
 ```bash
-git clone "https://github.com/Ploosh/Desafio-Tunts.git"
+git clone "https://github.com/viniciusCosta454/Desafio-Tunts-Vinicius"
 ```
 
 Install project dependencies:
@@ -65,7 +65,7 @@ To use the API it is necessary to create an authentication key. [Click here](htt
 
 Move the key to the ```Desafio-Tunts/src``` folder and rename it to **key.json**
 
-On the [spreadsheet](https://docs.google.com/spreadsheets/d/1BCMGbmE_qGpHVhZYIfjb3L7MSERGYZkbkL0VMqDRu8k/edit?usp=sharing) page click "Share" and add the available email in your key.json file so that it is possible to write in the spreadsheet.
+On the [spreadsheet](https://docs.google.com/spreadsheets/d/1mUTHvBLelwFduV0uSVvdi7P5N2Whry7CSwh42HcJcko/edit?usp=sharing) page click "Share" and add the available email in your key.json file so that it is possible to write in the spreadsheet.
 ### Running the project locally
 
 Open a terminal window in the project's root folder and run the backend:
