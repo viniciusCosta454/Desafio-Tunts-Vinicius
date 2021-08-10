@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sylvan-road-321321",
+  "private_key_id": "08ea4e9f143777d9147e96b68e5c51348d9e394e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx/hxyfNMIY22S\nubyBHKrenOI3SPJPEMCaWoFhZ6PKcPS3kzBxSauCt3RK7X2J4ZiWgw/Lq3GsCkyJ\nzWvBH9eVYVYPYMwVYpHWRtEGTv/r2+AeD4XGo5W9j3wPzkxQ/7KMlOctgsEEKxEf\nyFFyW/F9nAjYbt1kGYlPjeu+O75dovC2ibUJ52TeOOmUVJTrDnONoo7MupVE8MCj\ni2wzSiszfTt12QqZBoiEbjX6Qohk2e12HXzQQxvzlwfig88qa5rJXKGPSR3EOFFm\nUC1LnS3oDiCgnw07raz2m+s8MVy5VCtRz851VkrZKaGPbHXCGIhbzf3x5AcI95ca\nQxh8Kz6lAgMBAAECggEAHYEZVxMA6kmM/r7iE+bcHhWUXASwAdItkwiAnNRQrryF\nnC5+X7EOCJd/Y/I1Fpd6Myzbf+/V4mY8pLUT8QnlswHVAaySd9MEiKfpeym6O28R\nmfoJu1Eff7IapwYT2XNhNfNy1LTxaM74wjNy6Ml74M3uG25ZLYAcJj9IvhpqJlwW\nda9w0uNGr3eCyxlKEJVUVgjRDTkKOBKL4wdx7KmkgZQO1+BPa9KNf8b04+Wib2Bl\nKuDyKLvPMIlNDW8eH2CtSfL/TzHh3c+lmV3f6MYzwCRlILxKYVK/e0WVZUXcv9IN\nJ237QFoJN/N6l4oTU/x5dMm3mIDl08jMdr3p0dqe8QKBgQDsgHhUOQJevJYUHT90\nFHb2D6nRA/hdYgcuRMcFzkFhKrdTXxbvCbmKUvUVLvJp7Nm67HCsslimRPwlpXZ5\nRaJx2fhZ7Uds3FEU7FaU1EeJxuQabKgY6YMznTQJK7eMjhvY4/lfG9UMq0OSQ4Ey\nAucAQxZdX08LgjdbGyyaO1UPbQKBgQDAqsPNLzMzGYlsqxnESgQvtOwGooutmnqI\notDF1LtHiXwCFTMGXBsoJ67RPd/VxR8pNhk8PcbUvFf98hBTs8ZmG3atmD8BkJgV\nQIANQ2f2YyqtfSjx8zIB970OK3+9QOSScbkCdYFY5wia8XXRraRgs4M+oXCgH+jd\n2ks0+6CRGQKBgB+8FWlnxPOlZpYIXq1a2aOm8miDmd4d+0ywGeyjgo5hRvw+9Drb\nGTSAcTaIeCrSh1zXwT7LJ64X76W1kDIxr9yLHRIkDsOCxLaECBIscfUA5TbOgbfm\nDZ7tZ0Abx6Nqpj3ySVID0BDFImoL+NgXH5wfZG7fDSJENN1axh9j+sP5AoGAAk7J\nU57aHSWUKNIP1/MPA8dGAHpX8/diulpA5+25ZIz4CEpatxvJU3zOMkFsefIHgoXc\nXYVb6VZsM2V/3pDLspNno4KsVod12uNP5VjGWQQtEbDrGaLRGYbvI8lPmWO6mSp1\njdr8dqUlzD1SLPXIf0QHMWvbnn9jWazws6zD6pkCgYEAwfggvlehAkyyc7802H7T\n9KJC+5/405kf4h1ublSiYY1s8Vf0RICbk8qq3rzUMynP/JmVyfiOIhm5SmXDQkbp\nNFibnx2soB9M90yYyUuKZxNDpwmRkwb3fM0PY8EGiO5gxix56Y38Qpk3bhkxzaj6\nTsNW2UWmPQOFvvAQWf9VZWU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vinicius@sylvan-road-321321.iam.gserviceaccount.com",
+  "client_id": "108609252462220546970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vinicius%40sylvan-road-321321.iam.gserviceaccount.com"
+}
