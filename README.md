@@ -1,6 +1,6 @@
 # Desafio-Tunts
 
-[Repositório GitHub](https://github.com/Ploosh/Desafio-Tunts) | [Planilha](https://docs.google.com/spreadsheets/d/1mUTHvBLelwFduV0uSVvdi7P5N2Whry7CSwh42HcJcko/edit?usp=sharing)
+[Repositório GitHub](https://github.com/viniciusCosta454/Desafio-Tunts-Vinicius) | [Planilha](https://docs.google.com/spreadsheets/d/1mUTHvBLelwFduV0uSVvdi7P5N2Whry7CSwh42HcJcko/edit?usp=sharing)
 
 The application must be able to read a google sheets spreadsheet, get the necessary information, calculate and write the result on the spreadsheet.
 
